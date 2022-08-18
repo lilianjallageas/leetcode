@@ -1,4 +1,4 @@
- /**
+/**
  *
  * Problem #26
  * Problem URL: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
