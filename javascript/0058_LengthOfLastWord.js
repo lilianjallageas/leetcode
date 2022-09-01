@@ -7,8 +7,8 @@
  * @return {number}
  */
 var lengthOfLastWord = function(s) {
-    if (s.length == 0) { return 0; }
-    var arr = s.trim().split(' ')
-    var lastWord = arr[arr.length-1]
-    return lastWord.length
+	if (s.length == 0) { return 0; }
+	var arr = s.trim().split(' ')
+	var lastWord = arr[arr.length-1]
+	return lastWord.length
 };
